@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Overview Dispaly Cash Flow App
+## Overview
 
 <p align="center"><a href="" target="_blank"><img src="pic.png" width="600" alt=""></a></p>
 ## License
